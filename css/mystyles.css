@@ -1,0 +1,23 @@
+body{
+    background-color: #faf9cf;
+}
+#main{
+    font-size: 22px;
+    font-weight: bold;
+    color: brown;
+	border:2px;
+}
+div>h2 {
+    color: brown;
+    font-size: 20px;
+    background-color: #D68C3C;
+	border:2px solid brown;
+    border-radius: 6px;
+}
+img {
+    width: 400px;
+    height: 300px;
+    border: 3px solid green;
+    border-radius: 10px;
+}
+
